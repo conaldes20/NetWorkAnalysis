@@ -1,0 +1,12 @@
+
+CONALDES@CONALDES ~
+$ cd /cygdrive/c/cplang-codes
+
+CONALDES@CONALDES /cygdrive/c/cplang-codes/NetWorkAnalysis
+$ gcc WNAN.c -o credit.exe
+
+CONALDES@CONALDES /cygdrive/c/cplang-codes/NetWorkAnalysis
+$ ./WNAN.exe
+
+CONALDES@CONALDES /cygdrive/c/cplang-codes/NetWorkAnalysis
+$
